@@ -6,6 +6,32 @@ The tool is focused on helping investigators move from raw authentication logs t
 
 ---
 
+---
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Detections
+
+![Detections](screenshots/detections.png)
+
+### Kill Chain View
+
+![Kill Chain](screenshots/kill_chain.png)
+
+### Timeline
+
+![Timeline](screenshots/timeline.png)
+
+### Reporting
+
+![Reporting](screenshots/report.png)
+
+---
+
 ## Features
 
 - Microsoft interactive sign-in log analysis
