@@ -54,8 +54,6 @@ Release packages may include:
 
 Synthetic and sanitized sample datasets are available separately for testing and demonstration purposes.
 
-No government, victim, or operational data is included.
-
 ---
 
 ## Disclaimer
