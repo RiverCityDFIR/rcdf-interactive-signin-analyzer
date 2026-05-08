@@ -44,7 +44,7 @@ Release packages may include:
 
 ## Documentation
 
-- [Getting Started](docs/getting-started.md)
+- [Getting Started](docs/getting_started.md)
 - [Detections](docs/detections.md)
 - [Reporting](docs/reporting.md)
 
