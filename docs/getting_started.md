@@ -79,3 +79,5 @@ Available export formats may vary by release version.
 Detection output is intended to assist investigative review and prioritization.
 
 Findings should be validated against available evidence, tenant configuration, user activity, and additional supporting telemetry where appropriate.
+
+IP Enrichment requires an internet connection.
