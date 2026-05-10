@@ -40,7 +40,7 @@ Investigators should validate findings against:
 
 ## File Hashes
 
-Where supported, reports may include file hash information to assist with repeatability and evidence tracking workflows.
+Reports may include file hash information to assist with repeatability and evidence tracking workflows. Opened/closed file hashes are stored in /logs/
 
 Recommended practice includes:
 
