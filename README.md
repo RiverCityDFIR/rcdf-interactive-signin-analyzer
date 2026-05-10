@@ -35,7 +35,7 @@ The tool is focused on helping investigators move from raw authentication logs t
 ## Features
 
 - Microsoft interactive sign-in log analysis
-- Authentication telemetry enrichment
+- IP address enrichment
 - Suspicious sign-in detection workflows
 - Timeline reconstruction
 - Identity-focused kill chain mapping
@@ -58,13 +58,10 @@ Detection output should be reviewed in context and validated against available e
 
 Download the latest release from the repository Releases section.
 
-Release packages may include:
+Release package includes:
 
-- Windows executable package
-- SHA-256 hash file
-- Release notes
-- Example screenshots
-- Documentation updates
+- Windows standalone executable
+- Sample test data
 
 ---
 
@@ -84,7 +81,7 @@ Synthetic and sanitized sample datasets are available separately for testing and
 
 ## Disclaimer
 
-This tool is an independent project developed by Steve Rorabaugh using personal equipment and test data.
+This tool is an independent project developed by Steve Rorabaugh.
 
 It is not affiliated with, endorsed by, or sponsored by any government agency, employer, or third-party organization.
 
