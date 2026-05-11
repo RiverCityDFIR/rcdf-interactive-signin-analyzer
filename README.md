@@ -75,7 +75,7 @@ Release package includes:
 
 ## Sample Data
 
-Synthetic and sanitized sample datasets are available separately for testing and demonstration purposes.
+Synthetic sample datasets are available for testing and demonstration purposes.
 
 ---
 
